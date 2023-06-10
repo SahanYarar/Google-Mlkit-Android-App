@@ -1,0 +1,2 @@
+rootProject.name = "cmp2004"
+include ':app'
